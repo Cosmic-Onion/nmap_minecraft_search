@@ -1,6 +1,5 @@
 import nmap 
 import requests
-import sys
 import re
 
 wanIP32 = requests.get("https://api.ipify.org").text
