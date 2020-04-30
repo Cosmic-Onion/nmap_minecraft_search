@@ -1,0 +1,1 @@
+lil nmap script to search for minecraft servers in your WAN subnet
